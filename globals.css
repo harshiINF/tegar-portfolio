@@ -1,0 +1,11 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+@layer base {
+    body {
+        background-color: #1a202c; /* bg-gray-900 */
+        color: #ffffff; /* text-white */
+        font-family: 'Outfit', sans-serif; /* font-outfit */
+    }
+}
